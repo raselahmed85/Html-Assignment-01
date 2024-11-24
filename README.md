@@ -31,5 +31,9 @@
 20. textarea
 21. button
 22. iframe
+<!-- I used in the Footer -->
 23. footer
 24. copyright 
+25. div
+26. p,i,color
+27. style
